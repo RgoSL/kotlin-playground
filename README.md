@@ -1,8 +1,8 @@
-# 🤳 Aplicativo com Scroll
+# 🤳 Scrollable App
 
-### Descrição
+### Description
 
-> Essa branch guarda o app que introduziu este conceito do Kotlin. Ele tem um limite definido por um grid, o objetivo era testar o comportamento dos itens quando o número de itens fosse aumentando.
+> This branch contains the app that introduced this Kotlin concept. It has a limit defined by a grid; the goal was to test the behavior of the items as the number of items increased.
 
 <br>
 
