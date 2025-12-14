@@ -1,8 +1,8 @@
-# 🍿 App Cinema
+# 🍿 Cinema App
 
-### Descrição
+### Description
 
-> Chamei meu cinema fictício de CineKo, o “Ko” vem de Kotlin. Foi uma ideia livre para treinar e colocar em prática o que vinha aprendendo.
+> I called my fictional cinema CineKo, the "Ko" coming from Kotlin. It was a free idea to practice and put into practice what I had been learning.
 
 <br>
 
