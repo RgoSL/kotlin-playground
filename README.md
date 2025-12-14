@@ -1,8 +1,8 @@
-# 🥚 Praticando a Sintaxe
+# 🥚 Practicing Syntax
 
-### Descrição
+### Description
 
-> Essa branch reúne códigos com os fundamentos do Kotlin. Os arquivos se conectam entre si, formando uma lógica para listagem de eventos.
+> This branch brings together code based on Kotlin fundamentals. The files connect to each other, forming a logic for listing events.
 
 <br>
 
