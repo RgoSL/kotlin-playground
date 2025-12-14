@@ -1,8 +1,8 @@
-# 🐣 1º Banco de Dados
+# 🐣 1st Database
 
-### Descrição
+### Description
 
-> Essa branch guarda meu primeiro app com Banco de Dados. Ele foi desenvolvido utilizando o Room Database.
+> This branch contains my first app with a database. It was developed using Room Database.
 
 <br>
 
