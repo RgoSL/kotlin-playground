@@ -1,8 +1,8 @@
-# 🛒 App com RoomDB
+# 🛒 App with RoomDB
 
-### Descrição
+### Description
 
-> Esse foi um aplicativo desenvolvido para o cadastro de produtos. Ele utilizava um banco de dados local, implementado com a biblioteca do Android, Room Database.
+> This was an application developed for product registration. It used a local database, implemented with the Android library, Room Database.
 
 <br>
 
